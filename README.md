@@ -1,2 +1,1 @@
-# Google-IT-Automation
-Google IT Automation  Project Work
+I am editing the README file. Adding some more details about the project description.
